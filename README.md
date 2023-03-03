@@ -4,7 +4,7 @@
     1. Unzip FaceRecognition_model.rar
     2. run main.py
     3. Change the picture by changing the cv.imread()
-![alt text](./yee.png)
+![alt text](./output.png)
 ---
 ## Face recognition
 
