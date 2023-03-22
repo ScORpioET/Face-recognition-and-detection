@@ -1,5 +1,7 @@
 # Face-recognition-and-detection
 
+https://www.youtube.com/watch?v=Uo1-1FtM7T4
+
 ## Usage
     1. Unzip FaceRecognition_model.rar
     2. run main.py
